@@ -20,11 +20,11 @@
 
 ## 🚀 Проекты
 
-[![Репозиторий 1](https://github-readme-stats.vercel.app/api/pin/?username=lumatones&repo=имя-репозитория&theme=radical)](https://github.com/lumatones/имя-репозитория)
+[![Репозиторий 1]()
 
-[![Репозиторий 2](https://github-readme-stats.vercel.app/api/pin/?username=lumatones&repo=имя-репозитория&theme=radical)](https://github.com/lumatones/имя-репозитория)
+[![Репозиторий 2]()
 
-[![Репозиторий 3](https://github-readme-stats.vercel.app/api/pin/?username=lumatones&repo=имя-репозитория&theme=radical)](https://github.com/lumatones/имя-репозитория)
+[![Репозиторий 3]()
 
 ## 📊 Статистика
 
