@@ -20,7 +20,9 @@
 
 ## 🚀 Проекты
 
-В скором будущем. 
+[![Predator](https://github-readme-stats.vercel.app/api/pin/?username=lumatones&repo=Predator&theme=radical)](https://github.com/lumatones/Predator)
+
+[![project](https://github-readme-stats.vercel.app/api/pin/?username=lumatones&repo=project&theme=radical)](https://github.com/lumatones/project)
 
 ## 📊 Статистика
 
