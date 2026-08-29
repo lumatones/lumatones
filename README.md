@@ -1,6 +1,6 @@
 # Привет, я Lumatones 👋
 
-Разработчик из России. Люблю чистый код, интересные задачи и доводить проекты до конца.
+Разработчик из России.
 
 ## 🧑‍💻 Обо мне
 
@@ -11,8 +11,6 @@
 
 ## 🛠️ Стек
 
-*Отредактируй этот список под себя — убери лишнее, добавь своё:*
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -21,8 +19,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🚀 Проекты
-
-*Замени `имя-репозитория` на реальные названия своих репозиториев — карточка сама подтянет название, описание, язык и звёзды.*
 
 [![Репозиторий 1](https://github-readme-stats.vercel.app/api/pin/?username=lumatones&repo=имя-репозитория&theme=radical)](https://github.com/lumatones/имя-репозитория)
 
